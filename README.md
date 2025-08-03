@@ -53,19 +53,26 @@
 
 ## 🚀 Highlighted Projects
 
-- 🎥 **[UVOS- Unsupervised Video Object Segmentation Using Contrastive Learning](https://github.com/HAMMAD-Shahid27/UVOS)**  
-  Unsupervised Video Object Segmentation using Contrastive Learning.
+<div align="center">
 
-- 🧠 **[COVID CT Classification](https://github.com/HAMMAD-Shahid27/COVID-CT-Ensemble)**  
-  Ensemble of deep learning models (SqueezeNet, WRN, VGG) for COVID-19 detection.
+<table>
+  <tr>
+    <td width="33%">
+      <a href="https://github.com/HAMMAD-Shahid27/UVOS"><b>🎥 UVOS with RAFT</b></a><br>
+      Unsupervised video object segmentation using RAFT & contrastive learning.
+    </td>
+    <td width="33%">
+      <a href="https://github.com/HAMMAD-Shahid27/COVID-CT-Ensemble"><b>🧠 COVID-CT Classification</b></a><br>
+      Ensemble of VGG, WRN, and SqueezeNet for COVID detection from CT scans.
+    </td>
+    <td width="33%">
+      <a href="https://github.com/HAMMAD-Shahid27/Fishpond-Detection"><b>🛰️ Fishpond Detection</b></a><br>
+      Satellite image segmentation using CBERS-4 imagery at 8m resolution.
+    </td>
+  </tr>
+</table>
 
-- 🛰 **[Fishpond Detection](https://github.com/HAMMAD-Shahid27/Fishpond-Detection)**  
-  Segmentation of aquaculture ponds from CBERS-4 satellite images.
-
-- 🤖 **[ML Ensemble Framework](https://github.com/HAMMAD-Shahid27/Ensemble-Stacking)**  
-  Meta-learning based stacking framework using Logistic Regression and Deep Models.
-
----
+</div>
 
 ## 📊 GitHub Stats
 
