@@ -58,8 +58,8 @@
 <table>
   <tr>
     <td width="33%">
-      <a href="https://github.com/HAMMAD-Shahid27/UVOS"><b>🎥 UVOS with RAFT</b></a><br>
-      Unsupervised video object segmentation using RAFT & contrastive learning.
+      <a href="https://github.com/HAMMAD-Shahid27/UVOS-Unsupervised-video-object-segmentation">UVOS<b>🎥 </b></a><br>
+      Unsupervised video object segmentation using contrastive learning.
     </td>
     <td width="33%">
       <a href="https://github.com/HAMMAD-Shahid27/COVID-CT-Ensemble"><b>🧠 COVID-CT Classification</b></a><br>
