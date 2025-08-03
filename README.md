@@ -82,8 +82,8 @@
         <p>A Dash-based web app for detecting skin cancer using image classification ML models.</p>
       </td>
       <td width="50%">
-        <h4><a href="#">🌍 Satellite Fishpond Detection</a></h4>
-        <p>Deep learning segmentation of aquaculture zones in satellite imagery (repo link coming soon).</p>
+        <h4><a href="https://github.com/HAMMAD-Shahid27/Payroll-Management-System">Payroll-Management-System</a></h4>
+        <p>A web-based Payroll Management System to automate employee salary, tax, and attendance calculations with secure user roles and reporting features.</p>
       </td>
     </tr>
   </table>
