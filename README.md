@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hammad Shahid  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HAMMAD-Shahid27&style=flat-square)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/hammad-shahid-23a560350)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hammad-shahid-23a560350/)  
 [![Gmail](https://img.shields.io/badge/Email-hammadshahid27@gmail.com-red?style=flat-square&logo=gmail)](mailto:hammadshahid980@gmail.com)
 
 ---
