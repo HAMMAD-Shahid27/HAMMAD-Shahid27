@@ -1,8 +1,8 @@
 # Hi 👋, I'm Hammad Shahid  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HAMMAD-Shahid27&style=flat-square)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/HAMMAD-Shahid27)  
-[![Gmail](https://img.shields.io/badge/Email-hammadshahid27@gmail.com-red?style=flat-square&logo=gmail)](mailto:hammadshahid27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/hammad-shahid-23a560350)  
+[![Gmail](https://img.shields.io/badge/Email-hammadshahid27@gmail.com-red?style=flat-square&logo=gmail)](mailto:hammadshahid980@gmail.com)
 
 ---
 
@@ -26,16 +26,25 @@
 ---
 
 ## ⚙️ Tech Stack
+
+### 🧰 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,linux,git,vscode,github,r,java" />
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,java,linux,git,github,vscode" />
 </p>
 
+### 🧪 Libraries & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,numpy,pandas,opencv,fastapi,flask,streamlit,selenium" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,numpy,pandas" />
+  <!-- Manual logos for unsupported ones below -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&logo=opencv&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square" />
 </p>
 
+### ☁️ Cloud & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,mysql,mongodb,postgresql" />
 </p>
 
 ---
