@@ -67,11 +67,12 @@
 
 ---
 
-## 🌐 Let's Connect  
-🔗 [GitHub](https://github.com/HAMMAD-Shahid27)  
-🔗 [LinkedIn](https://linkedin.com/in/HAMMAD-Shahid27) *(update if different)*  
-🌐 [Portfolio](https://your-portfolio.com) *(replace with your portfolio link)*  
-📧 [Email](mailto:hammadshahid27@gmail.com)
+## 🌐 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-HammadShahid-181717?style=flat-square&logo=github)](https://github.com/HAMMAD-Shahid27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hammad-shahid-23a560350/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=flat-square&logo=google-chrome)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Gmail-hammadshahid27@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hammadshahid27@gmail.com)
 
 ---
 
