@@ -69,7 +69,7 @@
     <tr>
       <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/UVOS-Unsupervised-video-object-segmentation">🎥 UVOS</a></h4>
-        <p>Contrastive learning-based Unsupervised Video Object Segmentation on DAVIS, FBMS, and YT-OBJ.</p>
+        <p>A research-focused framework Contrastive learning-based Unsupervised Video Object Segmentation on DAVIS, FBMS, and YT-OBJ.</p>
       </td>
       <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration">🧠 AI Photo Restoration</a></h4>
