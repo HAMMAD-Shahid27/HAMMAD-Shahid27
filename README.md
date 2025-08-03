@@ -62,8 +62,8 @@
       Unsupervised video object segmentation using contrastive learning.
     </td>
     <td width="33%">
-      <a href="https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration"><b>/AI-Photo-Restoration</b></a><br>
-     A full-stack AI-powered photo restoration web app built using React for the frontend and Replicate API for the backend inference. Enhance, denoise, colorize, and               restore damaged old photographs with ease.
+      <a href="https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration"><b>AI-Photo-Restoration</b></a><br>
+     A full-stack AI-powered photo restoration web app  Enhance, denoise, colorize, and restore damaged old photographs with ease.
     </td>
     <td width="33%">
       <a href="https://github.com/HAMMAD-Shahid27/Fishpond-Detection"><b>🛰️ Fishpond Detection</b></a><br>
