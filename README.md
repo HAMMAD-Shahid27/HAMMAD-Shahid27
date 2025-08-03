@@ -24,18 +24,20 @@
 - 🤝 Open for Research · Collaborations · Freelance AI Projects · Internships  
 
 ---
-
 ## ⚙️ Tech Stack
 
 ### 🧰 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,java,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,java,linux,git,github,vscode" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ### 🧪 Libraries & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,numpy,pandas" />
-  <!-- Manual logos for unsupported ones below -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&logo=opencv&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
