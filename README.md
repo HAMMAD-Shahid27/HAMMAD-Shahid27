@@ -27,8 +27,8 @@
 - 🧪 Working on intelligent systems:
   - Unsupervised Video Object Segmentation (UVOS)
   - RAFT-based Optical Flow Integration
-  - Deep Ensemble Learning on Biomedical CT Images
-  - Satellite Image Segmentation (Fishpond Detection)  
+  - Deep Ensemble Learning on Skin CT Images
+  - Satellite Image Segmentation  
 - 💡 Strong focus on Deep Learning, Transfer Learning, and Self-Supervised Methods  
 - 🤝 Open for Research · Collaborations · Freelance AI Projects · Internships  
 
