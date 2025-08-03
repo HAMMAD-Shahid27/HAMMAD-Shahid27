@@ -1,8 +1,17 @@
-# Hi 👋, I'm Hammad Shahid  
+<h1 align="center">Hi 👋, I'm Hammad Shahid</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HAMMAD-Shahid27&style=flat-square)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hammad-shahid-23a560350/)  
-[![Gmail](https://img.shields.io/badge/Email-hammadshahid980@gmail.com-red?style=flat-square&logo=gmail)](mailto:hammadshahid980@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HAMMAD-Shahid27&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hammad-shahid-23a560350/">
+    <img src="https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:hammadshahid27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hammadshahid27@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -24,6 +33,7 @@
 - 🤝 Open for Research · Collaborations · Freelance AI Projects · Internships  
 
 ---
+
 ## ⚙️ Tech Stack
 
 ### 🧰 Languages & Tools
@@ -38,7 +48,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&logo=opencv&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?&logo=opencv&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square" />
@@ -54,25 +64,33 @@
 ## 🚀 Highlighted Projects
 
 <div align="center">
-
-<table>
-  <tr>
-    <td width="33%">
-      <a href="https://github.com/HAMMAD-Shahid27/UVOS-Unsupervised-video-object-segmentation">UVOS<b>🎥 </b></a><br>
-      A research-focused framework for Unsupervised Video Object Segmentation (UVOS) using Contrastive learning on benchmark datasets including DAVIS, FBMS, and YT-OBJ.
-    </td>
-    <td width="33%">
-      <a href="https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration"><b>AI-Photo-Restoration</b></a><br>
-     A full-stack AI-powered photo restoration web app  Enhance, denoise, colorize, and restore damaged old photographs with ease.
-    </td>
-    <td width="33%">
-      <a href="https://github.com/HAMMAD-Shahid27/Fishpond-Detection"><b>🛰️ Fishpond Detection</b></a><br>
-      Satellite image segmentation using CBERS-4 imagery at 8m resolution.
-    </td>
-  </tr>
-</table>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h4><a href="https://github.com/HAMMAD-Shahid27/UVOS-Unsupervised-video-object-segmentation">🎥 UVOS</a></h4>
+        <p>Contrastive learning-based Unsupervised Video Object Segmentation on DAVIS, FBMS, and YT-OBJ.</p>
+      </td>
+      <td width="50%">
+        <h4><a href="https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration">🧠 AI Photo Restoration</a></h4>
+        <p>Full-stack web app to restore old and damaged photographs using deep learning techniques.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4><a href="https://github.com/HAMMAD-Shahid27/Skin-Cancer-Detection">🧬 Skin Cancer Detection</a></h4>
+        <p>A Dash-based web app for detecting skin cancer using image classification ML models.</p>
+      </td>
+      <td width="50%">
+        <h4><a href="#">🌍 Satellite Fishpond Detection</a></h4>
+        <p>Deep learning segmentation of aquaculture zones in satellite imagery (repo link coming soon).</p>
+      </td>
+    </tr>
+  </table>
 
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -92,4 +110,4 @@
 
 ---
 
-**“Turning data into vision, and vision into impact — through code and curiosity.”**
+<p align="center"><i>“Turning data into vision, and vision into impact — through code and curiosity.”</i></p>
