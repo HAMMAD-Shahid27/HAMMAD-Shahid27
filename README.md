@@ -72,15 +72,14 @@
         <p>A research-focused framework Contrastive learning-based Unsupervised Video Object Segmentation on DAVIS, FBMS, and YT-OBJ.</p>
       </td>
       <td width="50%">
+        <h4><a href="https://github.com/HAMMAD-Shahid27/TWILIO-CHATBOT">TWILIO-CHATBOT</a></h4>
+        <p>A sophisticated AI-powered voice chatbot built with Twilio, OpenAI, and Python that can handle natural conversations over phone calls.</p>
+      </td>
+      <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration">🧠 AI Photo Restoration</a></h4>
         <p>Full-stack web app to restore old and damaged photographs using deep learning techniques.</p>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h4><a href="https://github.com/HAMMAD-Shahid27/TWILIO-CHATBOT">TWILIO-CHATBOT</a></h4>
-        <p>A sophisticated AI-powered voice chatbot built with Twilio, OpenAI, and Python that can handle natural conversations over phone calls.</p>
-      </td>
       <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/Skin-Cancer-Detection">🧬 Skin Cancer Detection</a></h4>
         <p>A Dash-based web app for detecting skin cancer using image classification ML models.</p>
