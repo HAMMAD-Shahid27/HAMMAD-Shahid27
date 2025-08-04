@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/hammad-shahid-23a560350/">
     <img src="https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:hammadshahid27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hammadshahid27@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:hammadshahid980@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hammadshahid980@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-HammadShahid-181717?style=flat-square&logo=github)](https://github.com/HAMMAD-Shahid27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hammad-shahid-23a560350/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=flat-square&logo=google-chrome)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=flat-square&logo=google-chrome)](https://hammad-shahid-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-hammadshahid27@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hammadshahid27@gmail.com)
 
 ---
