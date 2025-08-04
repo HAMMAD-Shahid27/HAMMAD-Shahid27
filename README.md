@@ -64,30 +64,30 @@
 ## 🚀 Highlighted Projects
 
 <div align="center">
-  
   <table>
     <tr>
       <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/UVOS-Unsupervised-video-object-segmentation">🎥 UVOS</a></h4>
-        <p>A research-focused framework Contrastive learning-based Unsupervised Video Object Segmentation on DAVIS, FBMS, and YT-OBJ.</p>
+        <p>A research-focused framework: Contrastive learning-based Unsupervised Video Object Segmentation on DAVIS, FBMS, and YT-OBJ.</p>
       </td>
       <td width="50%">
-        <h4><a href="https://github.com/HAMMAD-Shahid27/TWILIO-CHATBOT">TWILIO-CHATBOT</a></h4>
-        <p>A sophisticated AI-powered voice chatbot built with Twilio, OpenAI, and Python that can handle natural conversations over phone calls.</p>
-      </td>
-      <td width="50%">
-        <h4><a href="https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration">🧠 AI Photo Restoration</a></h4>
-        <p>Full-stack web app to restore old and damaged photographs using deep learning techniques.</p>
+        <h4><a href="https://github.com/HAMMAD-Shahid27/TWILIO-CHATBOT">📞 TWILIO Chatbot</a></h4>
+        <p>AI-powered voice chatbot using Twilio, OpenAI, and Python for realistic phone call conversations.</p>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h4><a href="https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration">🧠 AI Photo Restoration</a></h4>
+        <p>Full-stack app that restores old and damaged photographs using deep learning.</p>
+      </td>
       <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/Skin-Cancer-Detection">🧬 Skin Cancer Detection</a></h4>
-        <p>A Dash-based web app for detecting skin cancer using image classification ML models.</p>
+        <p>Image classification-based web app for skin cancer detection using Dash and ML models.</p>
       </td>
     </tr>
   </table>
-
 </div>
+
 
 ---
 
