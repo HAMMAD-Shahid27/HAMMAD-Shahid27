@@ -78,12 +78,12 @@
     </tr>
     <tr>
       <td width="50%">
-        <h4><a href="https://github.com/HAMMAD-Shahid27/Skin-Cancer-Detection">🧬 Skin Cancer Detection</a></h4>
-        <p>A Dash-based web app for detecting skin cancer using image classification ML models.</p>
+        <h4><a href="https://github.com/HAMMAD-Shahid27/TWILIO-CHATBOT">TWILIO-CHATBOT</a></h4>
+        <p>A sophisticated AI-powered voice chatbot built with Twilio, OpenAI, and Python that can handle natural conversations over phone calls.</p>
       </td>
       <td width="50%">
-        <h4><a href="https://github.com/HAMMAD-Shahid27/Payroll-Management-System">Payroll-Management-System</a></h4>
-        <p>A web-based Payroll Management System to automate employee salary, tax, and attendance calculations with secure user roles and reporting features.</p>
+        <h4><a href="https://github.com/HAMMAD-Shahid27/Skin-Cancer-Detection">🧬 Skin Cancer Detection</a></h4>
+        <p>A Dash-based web app for detecting skin cancer using image classification ML models.</p>
       </td>
     </tr>
   </table>
