@@ -15,22 +15,23 @@
 
 ---
 
-🎓 **Data Science Graduate** | 💻 **Deep Learning Researcher** | 🎥 **Computer Vision Enthusiast**  
-🔍 Passionate about solving real-world problems using AI, ML, CV, and automation.  
-🌱 Exploring LangChain · RAFT · Generative AI · LLM-based applications  
-🛠 Building scalable ML solutions with PyTorch, Transformers, and Streamlit  
+🎓 **Data Science Graduate** | 💻 **AI & Deep Learning Researcher** | 🎥 **Computer Vision & LLM Enthusiast**  
+🔍 Passionate about building **real-world AI solutions** using **ML, DL, NLP, CV, Generative AI, and AI Agents**.  
+🌱 Exploring **LangChain · RAFT · LLM-based applications · Autonomous AI Agents**  
+🛠 Building **scalable end-to-end AI systems** with **PyTorch, Transformers, FastAPI, and Streamlit**  
 
 ---
 
 ## 🧠 About Me
-- 🎓 Graduated in **BS Data Science**  
-- 🧪 Working on intelligent systems:
-  - Unsupervised Video Object Segmentation (UVOS)
-  - RAFT-based Optical Flow Integration
-  - Deep Ensemble Learning on Skin CT Images
-  - Satellite Image Segmentation  
-- 💡 Strong focus on Deep Learning, Transfer Learning, and Self-Supervised Methods  
-- 🤝 Open for Research · Collaborations · Freelance AI Projects · Internships  
+- 🎓 **BS Data Science Graduate** with strong foundation in **AI, ML, Deep Learning, and NLP**  
+- 🧪 Research & Projects:
+  - **Unsupervised Video Object Segmentation (UVOS)** using contrastive learning  
+  - **RAFT-based Optical Flow for video understanding**  
+  - **Deep Ensemble Learning for Skin CT Images classification**  
+  - **Satellite & Multispectral Image Segmentation**
+  - **LLM-powered AI assistants & RAG systems**  
+- 💡 Focused on **Deep Learning, Transfer Learning, Self-Supervised Learning, Generative AI, and AI Agents**  
+- 🤝 Open for **Research, Freelance AI Projects, Collaborations, and Internships**  
 
 ---
 
@@ -52,6 +53,8 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF9900?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0088CC?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & Databases
@@ -68,26 +71,25 @@
     <tr>
       <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/UVOS-Unsupervised-video-object-segmentation">🎥 UVOS</a></h4>
-        <p>A research-focused framework: Contrastive learning-based Unsupervised Video Object Segmentation on DAVIS, FBMS, and YT-OBJ.</p>
+        <p>Contrastive learning-based **Unsupervised Video Object Segmentation** framework for DAVIS, FBMS, and YT-OBJ datasets. Real-time CV & video understanding applications.</p>
       </td>
       <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/TWILIO-CHATBOT">📞 TWILIO Chatbot</a></h4>
-        <p>AI-powered voice chatbot using Twilio, OpenAI, and Python for realistic phone call conversations.</p>
+        <p>AI-powered **voice chatbot** using Twilio, OpenAI, and Python. Demonstrates **LLM integration and conversational AI** for real-world applications.</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration">🧠 AI Photo Restoration</a></h4>
-        <p>Full-stack app that restores old and damaged photographs using deep learning.</p>
+        <p>Full-stack application restoring old/damaged photos using **deep learning and image processing pipelines**.</p>
       </td>
       <td width="50%">
         <h4><a href="https://github.com/HAMMAD-Shahid27/Skin-Cancer-Detection">🧬 Skin Cancer Detection</a></h4>
-        <p>Image classification-based web app for skin cancer detection using Dash and ML models.</p>
+        <p>Web app for **skin cancer classification** using deep learning, Dash, and ML pipelines for medical image analysis.</p>
       </td>
     </tr>
   </table>
 </div>
-
 
 ---
 
@@ -103,10 +105,10 @@
 ## 🌐 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-HammadShahid-181717?style=flat-square&logo=github)](https://github.com/HAMMAD-Shahid27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hammad-shahid-23a560350/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HammadShahid-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hammad-shahid-ai-engineer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=flat-square&logo=google-chrome)](https://hammad-shahid-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-hammadshahid980@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hammadshahid980@gmail.com)
 
 ---
 
-<p align="center"><i>“Turning data into vision, and vision into impact — through code and curiosity.”</i></p>
+<p align="center"><i>“Turning data into vision, and vision into impact — through code, AI, and curiosity.”</i></p>
